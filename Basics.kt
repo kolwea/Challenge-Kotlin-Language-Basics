@@ -19,20 +19,20 @@ fun main(args: Array<String>) {
     var name : String = "Karen"
     
 
-// Use the Kotlin “when” expression and the variable choice to display “You chose 1.” if choice is 1, “You
-// chose 2.” if choice is 2, “You chose 3.” if choice is 3, and “You made an unknown choice.” if choice is
+// Use the Kotlin â€œwhenâ€ expression and the variable choice to display â€œYou chose 1.â€ if choice is 1, â€œYou
+// chose 2.â€ if choice is 2, â€œYou chose 3.â€ if choice is 3, and â€œYou made an unknown choice.â€ if choice is
 // something other than 1, 2, or 3.
-// Using the character constant integral, display the character in integral followed by the string “ is an integral.”
-// Using a “for” loop count from 5 to 10 (inclusive of start and end) using an integer variable i. Inside the loop
-// display each value of i with a line that is “i = ” followed by the value of i as in:
+// Using the character constant integral, display the character in integral followed by the string â€œ is an integral.â€
+// Using a â€œforâ€ loop count from 5 to 10 (inclusive of start and end) using an integer variable i. Inside the loop
+// display each value of i with a line that is â€œi = â€ followed by the value of i as in:
 // i=5
 // i=6
 // i=7
 // i=8
 // i=9
 // i = 10
-// Declare an integer variable age with an initial value of 0. Using a “while” loop that continues while age is less
-// than 6 display the value of age in a line that begins with “age = ” and is followed by the value of age.
+// Declare an integer variable age with an initial value of 0. Using a â€œwhileâ€ loop that continues while age is less
+// than 6 display the value of age in a line that begins with â€œage = â€ and is followed by the value of age.
 // (Example: age = 3) After the age line is displayed increment the value of age by 1.
 // Display a line that contains the greeting string followed by a space followed by the name string
     
@@ -63,8 +63,8 @@ fun main(args: Array<String>) {
         println("i = $i")
     }
     
-//     Declare an integer variable age with an initial value of 0. Using a “while” loop that continues while age is less
-// than 6 display the value of age in a line that begins with “age = ” and is followed by the value of age.
+//     Declare an integer variable age with an initial value of 0. Using a â€œwhileâ€ loop that continues while age is less
+// than 6 display the value of age in a line that begins with â€œage = â€ and is followed by the value of age.
 // (Example: age = 3) After the age line is displayed increment the value of age by 1.
 // Display a line that contains the greeting string followed by a space followed by the name string.
     
